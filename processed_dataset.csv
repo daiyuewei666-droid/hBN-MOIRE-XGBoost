@@ -1,4 +1,4 @@
-SampleFold_ID,Label,Edge_1,Edge_2,Edge_3,Edge_4,Edge_5,Edge_6,Edge_7,Edge_8,Edge_9,Edge_10,Wrinkle_1,Wrinkle_2,Wrinkle_3,Wrinkle_4,Wrinkle_5
+Sample_ID,Label,Edge_1,Edge_2,Edge_3,Edge_4,Edge_5,Edge_6,Edge_7,Edge_8,Edge_9,Edge_10,Wrinkle_1,Wrinkle_2,Wrinkle_3,Wrinkle_4,Wrinkle_5
 HOPG2-fold-1,0.0,5.09,63.06,5.07,,,,,,,,67.64,61.37,68.03,,
 HOPG2-fold-2,0.0,3.75,54.21,3.77,,,,,,,,58.8,70.21,59.19,,
 SF1-fold-1,1.0,60.08,27.0,59.09,72.77,27.8,34.16,59.38,57.97,62.02,65.39,,,,,
